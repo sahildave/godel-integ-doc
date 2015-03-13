@@ -2,16 +2,8 @@
 
 #### Welcome to Godel Integration Document!
 
-JusPay Safe Browser aims to reduce friction in Second Factor Authentication for Cards and Netbanking. It addresses various convenience features and gives a deeper insight into the events occurring after hitting the 'Pay' button.
+JusPay Safe Browser aims to reduce friction in Second Factor Authentication for Cards and Netbanking. 
 
-##### List of features:
+It provides various convenience and security features for users. It also collects a slew of information to give merchants a deeper insight into the events occurring after hitting the 'Pay' button.
 
-* Auto OTP Reading on Bank pages.
-* Password Helper.
-* Remembering UserID for Netbanking with user's permission.
-* Supporting new bank pages, without an app update.
-* Network optimization.
-* Unblocker workflows for Cards and Netbanking.
-* Analytics Dashboard to understand user behaviour.
-
-With Godel, merchants will be able to provide a pleasing experience on top of the existing 3D secure infrastructure.
+With Godel, merchants will be able to provide a pleasing payments experience on top of the existing 3D secure infrastructure.
